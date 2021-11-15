@@ -10,7 +10,7 @@ Hi, I'm Willian, a software engineer from Brazil, currently, I'm working for Zal
 
 - 📜 Microsoft developer certified;
 - 👨🏽‍💻 I’m working for a great e-commerce;
-- 🌱 I’m currently learning AWS;
+- 🌱 I’m currently learning Go;
 - 📝 [Resume](http://willian.is-a.dev)
 
 **Languages and Tools I'm using:**
