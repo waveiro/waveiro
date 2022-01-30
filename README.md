@@ -23,7 +23,8 @@ Hi, I'm Willian, a software engineer from Brazil, currently, I'm working for Zal
     <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
     <br /><br />
     <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" />
-    <img alt="Webstorm" src="https://img.shields.io/badge/-WebStorm-02c6d1?style=for-the-badge&logo=webstorm" />
+    <img alt="Webstorm" src="https://img.shields.io/badge/-WebStorm-02c6d1?style=for-the-badge&logo=webstorm" />    
+    <img alt="GoLand" src="https://img.shields.io/static/v1?style=for-the-badge&message=GoLand&color=000000&logo=GoLand&logoColor=FFFFFF&label=" />
     <img alt="Rider" src="https://img.shields.io/badge/-Rider-DC143C.svg?style=for-the-badge&logo=Rider&logoColor=white" />
     <br /><br />
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,6 +33,7 @@ Hi, I'm Willian, a software engineer from Brazil, currently, I'm working for Zal
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-bd002e?style=for-the-badge&logo=angular" />
     <img alt="React" src="https://img.shields.io/badge/-React-0081CB?style=for-the-badge&logo=react" />
+    <img alt="GoLang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
     <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
     <img alt="Node.JS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
     <br />
