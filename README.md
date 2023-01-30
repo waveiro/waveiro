@@ -7,7 +7,7 @@ Hi, I'm Willian, a software engineer from Brazil, currently, I'm working for Hub
 **Talking about Personal Stuffs:**
 
 - 📜 Microsoft developer certified;
-- 👨🏽‍💻 I’m working for a great CMS;
+- 👨🏽‍💻 I’m working for a great CRM;
 - 🌱 I’m currently taking the dust off my C# skils;
 - 📝 [Resume](http://willian.is-a.dev)
 
