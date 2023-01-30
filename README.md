@@ -2,15 +2,13 @@
 
 <br />
 
-Hi, I'm Willian, a software engineer from Brazil, currently, I'm working for Zalando.
-
-  <img align="right" alt="GIF" src="https://github.com/mauriciottc/mauriciottc/blob/main/code.gif?raw=true" width="500" height="320" />
+Hi, I'm Willian, a software engineer from Brazil, currently, I'm working for HubSpot.
 
 **Talking about Personal Stuffs:**
 
 - 📜 Microsoft developer certified;
-- 👨🏽‍💻 I’m working for a great e-commerce;
-- 🌱 I’m currently learning Go;
+- 👨🏽‍💻 I’m working for a great CMS;
+- 🌱 I’m currently taking the dust off my C# skils;
 - 📝 [Resume](http://willian.is-a.dev)
 
 **Languages and Tools I'm using:**
