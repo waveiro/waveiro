@@ -8,21 +8,21 @@ Hi, I'm Willian, a software engineer from Brazil, currently, I'm working for Hub
 
 - 📜 Microsoft developer certified;
 - 👨🏽‍💻 I’m working for a great CRM;
-- 🌱 I’m currently taking the dust off my C# skils;
+- 🌱 I’m currently learning Rust;
 - 📝 [Resume](http://willian.is-a.dev)
 
 **Languages and Tools I'm using:**
 
 <div float="left">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
-    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img alt="Ubuntu" src="https://img.shields.io/badge/pop!_os-46b4c1?style=for-the-badge&logo=popos&logoColor=white" />
     <br /><br />
     <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />
     <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
     <br /><br />
     <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" />
-    <img alt="Webstorm" src="https://img.shields.io/badge/-WebStorm-02c6d1?style=for-the-badge&logo=webstorm" />    
-    <img alt="GoLand" src="https://img.shields.io/static/v1?style=for-the-badge&message=GoLand&color=000000&logo=GoLand&logoColor=FFFFFF&label=" />    
+    <img alt="Webstorm" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />    
+    <img alt="IntelliJ" src="https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ&color=000000&logo=IntelliJ-idea&logoColor=FFFFFF&label=" />    
     <br /><br />
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3" />
@@ -30,8 +30,8 @@ Hi, I'm Willian, a software engineer from Brazil, currently, I'm working for Hub
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-bd002e?style=for-the-badge&logo=angular" />
     <img alt="React" src="https://img.shields.io/badge/-React-0081CB?style=for-the-badge&logo=react" />
-    <img alt="GoLang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>    
     <img alt="Node.JS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>    
     <br />
     <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
     <img alt="RXJS" src="https://img.shields.io/badge/-rxjs-B7178C?style=for-the-badge&logo=reactivex" />
@@ -52,6 +52,7 @@ Hi, I'm Willian, a software engineer from Brazil, currently, I'm working for Hub
     <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
     <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
     <img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
     <br />
     <br />
     <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
