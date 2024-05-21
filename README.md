@@ -2,23 +2,22 @@
 
 <br />
 
-Hi, I'm Willian, a software engineer from Brazil, currently, I'm working for HubSpot.
+Hi, I'm Willian, a software engineer from Brazil, currently, I'm working for Canva.
 
 **Talking about Personal Stuffs:**
 
 - 📜 Microsoft developer certified;
-- 👨🏽‍💻 I’m working for a great CRM;
+- 👨🏽‍💻 I’m working for the greatest ever design tool;
 - 🌱 I’m currently learning Rust;
 - 📝 [Resume](http://willian.is-a.dev)
 
 **Languages and Tools I'm using:**
 
 <div float="left">
+    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+    <br /><br />
     <img alt="Linux" src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
     <img alt="Ubuntu" src="https://img.shields.io/badge/pop!_os-46b4c1?style=for-the-badge&logo=popos&logoColor=white" />
-    <br /><br />
-    <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />
-    <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
     <br /><br />
     <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" />
     <img alt="Webstorm" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />    
