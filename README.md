@@ -82,7 +82,7 @@ Hi, I'm Willian, a software engineer from Brazil, currently, I'm working for Can
   </a>
 
   <a href="https://www.twitter.com/waveiro/" alt="Twitter">
-    <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </div>
 </div>
