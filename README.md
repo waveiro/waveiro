@@ -23,14 +23,16 @@ Hi, I'm Willian, a software engineer from Brazil, currently, I'm working for Can
     <img alt="Webstorm" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />    
     <img alt="IntelliJ" src="https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ&color=000000&logo=IntelliJ-idea&logoColor=FFFFFF&label=" />    
     <br /><br />
+    <img alt="Node.JS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>    
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-%23F24E1E?style=for-the-badge&logo=rust&logoColor=white"/>    
+    <br /><br />
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3" />
     	<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-bd002e?style=for-the-badge&logo=angular" />
     <img alt="React" src="https://img.shields.io/badge/-React-0081CB?style=for-the-badge&logo=react" />
-    <img alt="Node.JS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>    
     <br />
     <img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
     <img alt="RXJS" src="https://img.shields.io/badge/-rxjs-B7178C?style=for-the-badge&logo=reactivex" />
@@ -56,11 +58,8 @@ Hi, I'm Willian, a software engineer from Brazil, currently, I'm working for Can
     <br />
     <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     <img alt="Digital Ocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" />
-    <br />
-    <br />
     <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
     <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-    <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <div>
 <br />
 
